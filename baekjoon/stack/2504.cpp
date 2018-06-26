@@ -1,5 +1,3 @@
-//다시 풀기
-
 #include <iostream>
 #include <stack>
 #include <string>
